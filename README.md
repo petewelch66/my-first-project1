@@ -1,2 +1,2 @@
-# my-first-project1
-这是我GitHub上的第一个项目
+# About my first project on GitHub
+# This project is about my homework in the university study in the first year.
